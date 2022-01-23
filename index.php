@@ -23,5 +23,6 @@
         <?php echo $arr[1]; ?>
         <?php echo DAYS_IN_YEAR ?>
         <p>Apple's home</p>
+        <p>This is a second paragraph</p>
     </body>
 </html>
