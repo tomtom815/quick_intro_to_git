@@ -22,5 +22,6 @@
     </h1>
         <?php echo $arr[1]; ?>
         <?php echo DAYS_IN_YEAR ?>
+        <p>Apple's home</p>
     </body>
 </html>
